@@ -1,0 +1,25 @@
+{
+  "name": "mt-preview-image",
+  "version": "1.0.0",
+  "description": "react preview image, is a react component that preview image, build for mobile web app",
+  "keywords": [
+    "react",
+    "mobile",
+    "preview image"
+  ],
+  "main": "index.js",
+  "files": [
+    "preview-image",
+    "LICENSE",
+    "index.js",
+    "package.json",
+    "README.md"
+  ],
+  "bugs": {
+    "url": "https://github.com/shenxuxiang/mt-preview-image/issues"
+  },
+  "author": "https://github.com/shenxuxiang/mt-preview-image",
+  "license": "MIT",
+  "dependencies": {},
+  "peerDependencies": {}
+}
