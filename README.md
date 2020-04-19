@@ -1,4 +1,4 @@
-# mt-carousel
+# mt-preview-image
 
 A light-weight React mt-carousel component with extremely easy API（只适用于移动端项目）. [Online Demo](https://shenxuxiang.github.io/mt-preview-image/), welcome [code review](https://github.com/shenxuxiang/mt-preview-image)
 

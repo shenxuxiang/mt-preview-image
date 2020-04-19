@@ -1,11 +1,12 @@
 {
   "name": "mt-preview-image",
-  "version": "1.0.4",
+  "version": "1.0.1",
   "description": "react preview image, is a react component that preview image, build for mobile web app",
   "keywords": [
     "react",
     "mobile",
-    "preview image"
+    "preview image",
+    "modal image"
   ],
   "main": "index.js",
   "homepage": "https://github.com/shenxuxiang/mt-preview-image",
